@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_salami.mk
+    $(LOCAL_DIR)/twrp_astonc.mk
 
-COMMON_LUNCH_CHOICES := twrp_salami-eng
+COMMON_LUNCH_CHOICES := twrp_astonc-eng
