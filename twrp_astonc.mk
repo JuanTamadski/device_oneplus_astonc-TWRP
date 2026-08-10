@@ -17,7 +17,7 @@
 # Only the below variable(s) need to be changed!
 #
 # Identifier for common folder
-COMMON_SOC := sm85xx
+COMMON_SOC := sm8550
 
 # Define hardware platform
 PRODUCT_PLATFORM := kalama
